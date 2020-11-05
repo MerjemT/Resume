@@ -35,7 +35,7 @@
 <div id="main">
 <blockquote>
     <p>
-        <img src="kirmizi.jpg" width="200" height="230" title="This is Merjem's photo"> <br> </p>
+        <img src="slika za cv.jpg" width="250" height="250" title="This is Merjem's photo"> <br> </p>
 <h2><i>Talić, Merjem, 03.05.1999.</i></h2>
 
 
@@ -97,19 +97,9 @@
 
 
 </table>
-
-
-
-
-
-</div>
-
-
 </div>
 </div>
-
-
-
+</div>
 <blockquote>     
      
 <h3> Skills </h3>
@@ -134,6 +124,7 @@
 </div>
 
     <blockquote>
+       <div id="Hobbies"> 
         <h3>Hobbies</h3></blockquote>
         <div style="background-color: rgb(174, 69, 69);">
         <ul type="square">
@@ -149,32 +140,34 @@
         
         </ul>
         </div>
+        </div>
         <blockquote>
-        <h3>Languages</h3>
+          <div id="Languages"> 
+<h3>Languages</h3>
         </blockquote>
         
         <div style="background-color: rgb(174, 69, 69);">
         
         <ul type="square">
         
-        <li>Bosnian </li>
-        <li>Croation</li>
-        <li>Serbian</li>
-        <li>English</li>
-        <li>Turkish</li>
-        <li>German</li>
-        <li>Arabic</li>
-        <li>Spanish</li>
-        </ul>
+   <li>Bosnian </li>
+  <li>Croation</li>
+   <li>Serbian</li>
+  <li>English</li>
+   <li>Turkish</li>
+  <li>German</li>
+   <li>Arabic</li>
+   <li>Spanish</li>
+  </ul>
         
-
+</div>
+</div>
 <div id="footer">
-  @copyright
-</div>
-</div>
-</div>
-</div>
-</div>
+Copyright @copyright 2020
 
+</div>
+</div>
+</div>
+</div>
 </body>
 </html>
