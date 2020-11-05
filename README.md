@@ -118,12 +118,12 @@
     <li>Ability to work under pressure</li>
     <li>Confidence</li>
     
-    </ul>
+  </ul>
 </div>
 
 </div>
 
-    <blockquote>
+  <blockquote>
        <div id="Hobbies"> 
         <h3>Hobbies</h3></blockquote>
         <div style="background-color: rgb(174, 69, 69);">
@@ -138,17 +138,16 @@
         <li>Start a blog</li>
         <li>Photography</li>
         
-        </ul>
+  </ul>
         </div>
         </div>
         <blockquote>
           <div id="Languages"> 
 <h3>Languages</h3>
         </blockquote>
+             <div style="background-color: rgb(174, 69, 69);">
         
-        <div style="background-color: rgb(174, 69, 69);">
-        
-        <ul type="square">
+  <ul type="square">
         
    <li>Bosnian </li>
   <li>Croation</li>
