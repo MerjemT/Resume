@@ -21,11 +21,11 @@
 
     
 <ul>
-<li> <a href="#"> About</a> </li>
-<li> <a href="#">Education</li> </a>
-<li> <a href="#">Skills</li> </a>
-<li> <a href="#">Hobbies</li> </a>
-<li> <a href="#">Languages</li> </a>
+<li> <a href="#"> About</a></li>
+<li> <a href="#">Education </a></li> 
+<li> <a href="#">Skills </a></li>
+<li> <a href="#">Hobbies </a></li>
+<li> <a href="#">Languages </a> </li>
 
 </ul>
 
@@ -33,7 +33,7 @@
 
 
 <div id="main">
-<blockquote>
+
     <p>
         <img src="slika za cv.jpg" width="250" height="250" title="This is Merjem's photo"> <br> </p>
 <h2><i>Talić, Merjem, 03.05.1999.</i></h2>
@@ -45,7 +45,7 @@
     <a href="https://www.linkedin.com/in/merjem-tali%C4%87-1901dms/">Merjem Talic | LinkedIn </a><br>
     <a href="https://github.com/MerjemT">Merjem Talic | GitHub</a><br>
 +387 60 322 35 15<br> </i>
-</blockquote>
+
 
 </p>
 
@@ -56,12 +56,11 @@
         spent four amazing years there. After that, I had to decide what I wanted to do with my life. Everyone knew that I was really interested <br> 
         in coding and programming, so I decided to study software engineering at the <a href="https://www.ius.edu.ba/bs">International University of Sarajevo.</a> Now, I am a third<br>
         year student, and in two years, I will become a <a href="https://en.wikipedia.org/wiki/Bachelor_of_Software_Engineering">Bachelor of Software engineering</a>, inshaAllah! </i>
-         
-</blockquote>
+</blockquote>         
+
 
 </p> <br>
-
-</div> <br>
+ <br>
 
 
 
@@ -98,14 +97,12 @@
 
 </table>
 </div>
-</div>
-</div>
-<blockquote>     
+     
      
 <h3> Skills </h3>
 
 <div id="Skills">
-</blockquote>
+
 <div style="background-color: rgb(174, 69, 69);">
     <ul type="square">
     <li>Programming</li>
@@ -123,8 +120,8 @@
 
 </div>
 
-  <blockquote>
-       <div id="Hobbies"> 
+
+  <div id="Hobbies"> 
         <h3>Hobbies</h3></blockquote>
         <div style="background-color: rgb(174, 69, 69);">
         <ul type="square">
@@ -141,11 +138,11 @@
   </ul>
         </div>
         </div>
-        <blockquote>
-          <div id="Languages"> 
+        
+   <div id="Languages"> 
 <h3>Languages</h3>
-        </blockquote>
-             <div style="background-color: rgb(174, 69, 69);">
+      
+  <div style="background-color: rgb(174, 69, 69);">
         
   <ul type="square">
         
